@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/scene.svg</file>
+        <file>res/clock.svg</file>
+        <file>res/default.png</file>
+        <file>res/default.svg</file>
+        <file>res/haitan.svg</file>
+        <file>res/interval.svg</file>
+        <file>res/senlin.svg</file>
+        <file>res/shengxia.svg</file>
+        <file>res/yu.svg</file>
+        <file>res/start.svg</file>
+        <file>res/stop.svg</file>
+        <file>res/clock.wav</file>
+    </qresource>
+</RCC>
